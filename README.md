@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome! 👋
 
-<!--
-**asbjorn-dev/asbjorn-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Asbjørn, a student studying IT Architecture at Aarhus Erhversakademi in Aarhus, Denmark.
 
-Here are some ideas to get you started:
+## 📚 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏛️ Studying IT Architecture at EAAA.
+- 🌆 Living and learning in beautiful Aarhus, Denmark.
+- 💡 Passionate about software design, system architecture, and problem-solving.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asbjorn-dev&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asbjorn-dev)
