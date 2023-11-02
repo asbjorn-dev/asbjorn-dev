@@ -1,6 +1,5 @@
-[![GitHub asbjorn-dev](https://img.shields.io/github/followers/asbjorn-dev?label=follow&style=social)](https://github.com/asbjorn-dev)
-
 <h1>Welcome 👋</h1>
+[![GitHub asbjorn-dev](https://img.shields.io/github/followers/asbjorn-dev?label=follow&style=social)](https://github.com/asbjorn-dev)
 <p align="left"><br>I'm Asbjørn, a student studying IT Architecture at Aarhus Erhversakademi in Aarhus, Denmark.<br><br> 📚 About Me<br><br>- 🌆 Living and learning in beautiful Aarhus, Denmark.<br>- 💡 Passionate about software design, system architecture, and problem-solving.</p>
 
 <div align="left">
