@@ -4,10 +4,10 @@
 <p align="left"><br>I'm Asbjørn, a student studying IT Architecture at Aarhus Erhversakademi in Aarhus, Denmark.<br><br> 📚 About Me<br><br>- 🌆 Living and learning in beautiful Aarhus, Denmark.<br>- 💡 Passionate about software design, system architecture, and problem-solving.</p>
 
 ## Stats:
-
-<div align="left">
-<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asbjorn-dev&theme=gotham" alt="asbjorn-dev" /></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asbjorn-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=denguledansker&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=denguledansker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenGuleDansker&theme=gotham" alt="DenGuleDansker" /></p>
 </div>
 
 ###
