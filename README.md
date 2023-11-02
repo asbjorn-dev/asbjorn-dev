@@ -4,6 +4,8 @@
 
 <p align="left">I'm Asbjørn, a student studying IT Architecture at Aarhus Erhversakademi in Aarhus, Denmark.<br><br> 📚 About Me<br><br>- 🌆 Living and learning in beautiful Aarhus, Denmark.<br>- 💡 Passionate about software design, system architecture, and problem-solving.</p>
 
+## Languages and Tools:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
