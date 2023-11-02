@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left"> Welcome! 👋<br><br>I'm Asbjørn, a student studying IT Architecture at Aarhus Erhversakademi in Aarhus, Denmark.<br><br>## 📚 About Me<br><br>- 🏛️ Studying IT Architecture at EAAA.<br>- 🌆 Living and learning in beautiful Aarhus, Denmark.<br>- 💡 Passionate about software design, system architecture, and problem-solving.</p>
+<p align="left"> Welcome! 👋<br><br>I'm Asbjørn, a student studying IT Architecture at Aarhus Erhversakademi in Aarhus, Denmark.<br><br>## 📚 About Me<br><br>- 🌆 Living and learning in beautiful Aarhus, Denmark.<br>- 💡 Passionate about software design, system architecture, and problem-solving.</p>
 
 ###
 
