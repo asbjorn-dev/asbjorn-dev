@@ -29,10 +29,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/1188610488">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1188610488&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+![Cool GIF](/dino.gif)
 
 ###
